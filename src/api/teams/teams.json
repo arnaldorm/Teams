@@ -1,0 +1,22 @@
+[
+    {
+        "teamId": 1,
+        "teamName": "Procesing Point",
+        "startDate": "february, 2017",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "members": 4,
+        "client": "Procesing Point",
+        "projects": 2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "teamId": 2,
+        "teamName": "LPGA",
+        "startDate": "Octuber, 2015",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "members": 3,
+        "client": "LPGA",
+        "projects": 1,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    }
+]
