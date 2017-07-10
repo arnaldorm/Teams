@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
-a {
-    color: orange;
-    font-size: large;
+.btn {
+    color: #f15a21;
+
+    &:hover {
+        color:#f7ae15;
+    }
   }
